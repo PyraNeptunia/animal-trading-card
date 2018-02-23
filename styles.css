@@ -1,0 +1,43 @@
+* {font-family: 'Open Sans', sans-serif;
+}
+
+#trading-card {
+  width: 320px;
+  height: auto;
+  border: 1px solid silver;
+  box-shadow: 10px 10px 11px silver;
+  padding: 10px;
+  background-color: #DCDCDC;
+  text-align: center;
+}
+
+.information {
+  border: 1px solid silver;
+  padding: 10px;
+  border: 0 auto;
+  text-align: justify;
+}
+
+.info {
+  font-style: italic;
+}
+
+h3 {
+  border: 1px solid silver;
+  padding: 10px;
+  border: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding: 0;
+}
+
+span {
+  font-weight: bold;
+}
+
+img {
+  padding: 10px;
+}
